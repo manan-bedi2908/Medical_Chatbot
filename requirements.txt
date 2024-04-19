@@ -8,4 +8,5 @@ unstructured
 langchain
 flask
 pypdf
+python-dotenv
 -e .
