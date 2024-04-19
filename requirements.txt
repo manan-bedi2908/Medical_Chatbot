@@ -7,4 +7,5 @@ langchain
 unstructured
 langchain
 flask
+pypdf
 -e .
