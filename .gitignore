@@ -2,3 +2,4 @@ model/
 db/
 .env
 Medical_Chatbot.egg-info
+src/__pycache__/
