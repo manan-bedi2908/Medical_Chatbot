@@ -6,7 +6,6 @@ from langchain import PromptTemplate
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 from langchain.llms import CTransformers
-import os
 
 app = Flask(__name__)
 
